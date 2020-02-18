@@ -1,4 +1,5 @@
-#This was also added
+# Final Test
+# This was also added
 # Getting Started with Git
 
 ## Introduction 
