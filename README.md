@@ -12,9 +12,9 @@ You will be able to:
 * Use `git clone` to clone a repository
 * Use `git add`, `git commit`, and `git push` to make changes to a repository
 * Compare local and remote repositories
+* This has been added 
 
-
-## Some terminology and concepts
+# Some terminology and concepts
 
 As you can see from the objectives above, we're going to dive in and use several Git commands in this lesson. 
 
